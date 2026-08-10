@@ -195,6 +195,9 @@ public class Demo {
 
 <img width="844" height="342" alt="image" src="https://github.com/user-attachments/assets/58c3755f-15d5-4534-9acc-dac944a8db1b" />
 
+### Access the particular index of arraylist
+<img width="959" height="270" alt="image" src="https://github.com/user-attachments/assets/d849ca72-c63c-4700-a2e7-9fd86bcd3c90" />
+
 ---
 
 ## Summary
