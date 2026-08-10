@@ -13,11 +13,9 @@ public class Driver {
 		cities.add("HYD");
 		cities.add("AHM");
 		cities.add("DEL");
-		
-		
+
 		
 		cities.add(1, "KOL");
-		
 		cities.remove(4);
 		cities.remove(3);
 		
