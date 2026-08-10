@@ -35,6 +35,8 @@ ArrayList<String> list = new ArrayList<>();
 - Not synchronized (not thread-safe).
 
 ---
+<img width="792" height="382" alt="image" src="https://github.com/user-attachments/assets/bce631c4-3c69-447e-a67a-108354f754c3" />
+
 
 ## Internal Working
 
