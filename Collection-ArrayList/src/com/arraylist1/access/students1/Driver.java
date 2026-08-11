@@ -16,14 +16,10 @@ public class Driver {
 		studentName.add("surya");
 		studentName.add("surya");
 		studentName.add("kamlesh");
-		studentName.add("kamlesh");
-		studentName.add("surya");
-		studentName.add("kartik");
-		studentName.add("surya");
-		studentName.add("surya");
-		studentName.add("kartik");
-
-		for (int i = 0; i < studentName.size(); i++) 
+		
+	
+		
+		for(int i = 0; i < studentName.size(); i++) 
 		{
            String name = studentName.get(i);
            if(name.startsWith("s"))
