@@ -35,6 +35,8 @@ ArrayList<String> list = new ArrayList<>();
 - Not synchronized (not thread-safe).
 
 ---
+<img width="792" height="382" alt="image" src="https://github.com/user-attachments/assets/bce631c4-3c69-447e-a67a-108354f754c3" />
+
 
 ## Internal Working
 
@@ -189,6 +191,12 @@ public class Demo {
     }
 }
 ```
+<img width="884" height="373" alt="image" src="https://github.com/user-attachments/assets/e8a0159e-a6ac-402d-99fd-e72bcbf3083d" />
+
+<img width="844" height="342" alt="image" src="https://github.com/user-attachments/assets/58c3755f-15d5-4534-9acc-dac944a8db1b" />
+
+### Access the particular index of arraylist
+<img width="959" height="270" alt="image" src="https://github.com/user-attachments/assets/d849ca72-c63c-4700-a2e7-9fd86bcd3c90" />
 
 ---
 
