@@ -16,11 +16,10 @@ public class Driver {
 
 		
 		cities.add(1, "KOL");
-		cities.remove(4);
-		cities.remove(3);
 		
 		
-		System.out.println(cities);
+	  int a =  cities.indexOf("CHE");
+	    System.out.println(a);
 		
 	}
 	
