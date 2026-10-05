@@ -15,11 +15,7 @@ public class Driver {
 		cities.add("DEL");
 
 		
-		cities.add(1, "KOL");
-		
-		
-	  int a =  cities.indexOf("CHE");
-	    System.out.println(a);
+		System.out.println(cities.getFirst());
 		
 	}
 	
