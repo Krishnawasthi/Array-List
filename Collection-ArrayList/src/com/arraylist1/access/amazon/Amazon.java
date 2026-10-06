@@ -1,6 +1,7 @@
 package com.arraylist1.access.amazon;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class Amazon {
@@ -31,12 +32,12 @@ public class Amazon {
 		products.add(p9);
 		products.add(p10);
 		
-		for(int i = 0; i<products.size(); i++) {
+		Iterator<Product> p = products.iterator();
+		while(p.hasNext()) {
 			
 			
-			Product product = products.set(1, p10);
-			
-			System.out.println(product);
+			Product prod = p.next();
+			System.out.println(prod);
 			
 
 			

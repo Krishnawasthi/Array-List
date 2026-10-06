@@ -19,14 +19,21 @@ public class Product {
 		products.add("Sony Headphones");
 		products.add("Apple Watch");
 		products.add("iPad Pro");
-		//products.set(1, "nokia lumia");
-		//products.remove(3);
 		
 		//add(index, Object) insert element and shift the element  
 		//set(index , object) replace the element from the perticular index
 		System.out.println(products.size());
-		System.out.println(products.remove(3));
+		System.out.println("insert element at the start");
+		products.add(0, "intel processor");
+		System.out.println();
+		System.out.println("insert element in between");
+		products.add(4, "nvidia");
+		products.add(products.size(), "macbook");
+		System.arraycopy(12, 2, products, 3, 4);
+		
+		System.out.println(products);
 		System.out.println(products.size());
+	
 		
 		
 	}
